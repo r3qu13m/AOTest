@@ -420,7 +420,7 @@ public class RenderAOTest implements ISimpleBlockRenderingHandler {
 		 * 3 | 4 | 5
 		 * 6 | 7 | 8
 		 *
-		 * 5 = (aoMain, brightnessMain)
+		 * 4 = (aoMain, brightnessMain)
 		 *
 		 * (main, side1, side2, corner)
 		 *
